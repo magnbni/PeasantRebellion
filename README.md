@@ -4,6 +4,17 @@
 ## Description of game concept
 Peasant Rebellion is a spin-off of the classic Atari game Space Invaders. There are starving peasants approaching in waves trying to attack you by shooting arrows. The goal of the game is to stay alive as long as possible, killing peasants and getting the highest possible score. The game ends when the player loses all their lives. The player is then prompted if they would like to save their score to the global leaderboard, inspired by old arcade machines, which is accessible from the main menu.
 
+## Trailer 
+[![Trailer](https://github.com/user-attachments/assets/cf67dd2c-2abd-49fd-a26d-7d81f51ff790)
+](http://www.youtube.com/watch?v=UHAvuxEaq4o "TDT4240 Software Architecture project group 01 - Peasant Rebellion")
+
+## Screenshots
+<div align="center" display="block">
+    <img src="https://github.com/user-attachments/assets/23f8d68f-538f-477e-89f6-42b3af7ccb29" width="50%"/>
+    <img src="https://github.com/user-attachments/assets/79d0fd1a-6a27-4f4a-8b14-6b0e602edc3c" width="50%"/>
+    <img src="https://github.com/user-attachments/assets/66e5227e-ef51-4c3a-8f94-2e0f040fe87a" width="50%"/>
+</div>
+
 ## How to compile and run the project
 In a command line, navigate to the root of the project and enter these commands
 
